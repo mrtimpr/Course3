@@ -1,0 +1,14 @@
+{
+  "employers": [
+    { "hh_id": 1455, "label": "HeadHunter" },
+    { "hh_id": 3529, "label": "Сбер" },
+    { "hh_id": 78638, "label": "Яндекс" },
+    { "hh_id": 2748, "label": "VK" },
+    { "hh_id": 15478, "label": "Т-Банк / Тинькофф" },
+    { "hh_id": 2180, "label": "Ozon" },
+    { "hh_id": 3776, "label": "МТС" },
+    { "hh_id": 1740, "label": "Ростелеком" },
+    { "hh_id": 3127, "label": "Газпром нефть" },
+    { "hh_id": 87021, "label": "Авито" }
+  ]
+}
